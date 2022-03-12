@@ -6,6 +6,3 @@
       Twitter - https://twitter.com/RahilShareef3
       Youtube - https://www.youtube.com/channel/UCP5AUgCBvvPzcmM3luyiYMw
       Discord - https://discord.gg/aXwFxeK5
-
-
-      [Github stats](https://github-readme-stats.vercel.app/api?username=Rahil2007)
