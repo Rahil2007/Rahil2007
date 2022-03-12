@@ -8,4 +8,4 @@
       Discord - https://discord.gg/aXwFxeK5
 
 
-      ![Github stats](https://github-readme-stats.vercel.app/api?username=Rahil2007)
+      [Github stats](https://github-readme-stats.vercel.app/api?username=Rahil2007)
