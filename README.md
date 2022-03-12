@@ -7,4 +7,5 @@
       Youtube - https://www.youtube.com/channel/UCP5AUgCBvvPzcmM3luyiYMw
       Discord - https://discord.gg/aXwFxeK5
 
-Thanks for reading my profile!
+
+      ![Github stats](https://github-readme-stats.vercel.app/api?username=Rahil2007)
